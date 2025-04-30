@@ -32,7 +32,7 @@ Weber, A. M. (2025). netIntensity.py (Version 0.1) [Software]. GitHub. https://g
 ```tex
 @misc{weberNetIntensity2025,
     author = {Austin M. Weber},
-    title = {netIntensity.py ({Version} 0.1) [{Software}]},
+    title = {{netIntensity.py} ({Version} 0.1) [{Software}]},
     year = {2025},
     url = {https://github.com/weber1158/netIntensity.py}
 }
