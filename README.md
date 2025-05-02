@@ -5,7 +5,7 @@
 
 `netIntensity.py` is a script written for DTSA-II that can bulk processes multiple spectra at a time and print the net intensities for the following mineral-forming elements: F, Na, Mg, Al, Si, P, S, Cl, K, Ca, Ti, Cr, Mn, and Fe. 
 
-## :books: How to use ([Download PDF](https://github.com/user-attachments/files/19899223/How-to-Use.pdf))
+## :books: How to use ([Download Instructions](https://github.com/user-attachments/files/20015818/How-to-use-netIntensity.py.pdf))
 
 You can run `netIntensity.py` on your computer by downloading the script and doing the following:
 1. Open DTSA-II
