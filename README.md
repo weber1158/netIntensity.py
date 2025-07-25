@@ -9,7 +9,7 @@
 
 You can run `netIntensity.py` on your computer by downloading the script and doing the following:
 1. Open DTSA-II
-2. Import one or more EDS spectral data files (.msa extension)
+2. Import one or more EDS spectral data files (.msa or .emsa extension)
 3. In the Command tab, type `ls()` and then execute the command with <kbd>CTRL+Enter</kbd>
     - This will print a table of all the loaded spectra. The table will have two columns: *Name* and *Spectrum*. The values in the *Name* column will be "s1", "s2", "s3", etc.
 4. Click the Open button and navigate to the `netIntensity.py` file. Select the file and it should run automatically.
